@@ -30,4 +30,15 @@
   	<servlet-name>mc</servlet-name>
   	<url-pattern>*.do</url-pattern>
   </servlet-mapping>
+  
+  <context-param>
+  	<param-name>bootstrap_link</param-name>
+  	<param-value></param-value>
+  </context-param>
+
+  <context-param>
+  	<param-name></param-name>
+  	<param-value></param-value>
+  </context-param>
+  
 </web-app>
